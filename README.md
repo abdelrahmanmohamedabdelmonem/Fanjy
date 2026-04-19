@@ -11,6 +11,14 @@
 
 ---
 
+## ⚙️ Team Roles
+- Logo Design: [Fares]  
+- Fonts and palette: [Joumana]  
+- Flyers: [Abdelrahman]  
+- Social Media Posts: [Nada] 
+
+---
+
 ## 👨‍🏫 Instructor
 Dr. Abir Ismail  
 
