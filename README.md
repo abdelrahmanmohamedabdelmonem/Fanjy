@@ -12,10 +12,10 @@
 ---
 
 ## ⚙️ Team Roles
-- Logo Design: [Fares]  
-- Fonts and palette: [Joumana]  
-- Flyers: [Abdelrahman]  
-- Social Media Posts: [Nada] 
+- Logo Design, Posters, Mockups, Banner and Presentation: [Fares]  
+- Palette, Flyers, Menu, Posters: [Joumana]  
+- Fonts, Flyers, Mockups, Banner and Presentation: [Abdelrahman]  
+- Slogan, Mockups and Posters: [Nada] 
 
 ---
 
